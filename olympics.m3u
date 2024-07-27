@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1, SPORTS 18 HD ENGLISH
+#EXTINF:-1, ENGLISH
 https://prod-sportsp-eng.jiocinema.com/hls/live/2100309/hd_akamai_iosmob_avc_eng_olympic_india_270724/master.m3u8
-#EXTINF:-1, SPORTS 18 HD TELUGU
+#EXTINF:-1, TELUGU
 https://prod-sportsp-south-m.jiocinema.com/hls/live/2109481/hd_akamai_iosmob_avc_tel_olympic_india_270724/master.m3u8
-#EXTINF:-1, SPORTS 18 HD HINDI
+#EXTINF:-1, HINDI
 https://prod-sportsp-hin.jiocinema.com/hls/live/2112615/hd_akamai_iosmob_avc_hin_olympic_india_270724/master.m3u8
-#EXTINF:-1, SPORTS 18 HD TAMIL
+#EXTINF:-1, TAMIL
 https://prod-sportsp-south-m.jiocinema.com/hls/live/2100289/hd_akamai_iosmob_avc_tam_olympic_india_270724/master.m3u8
 #EXTINF:-1, Feed 1
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_feed1_270724/index.m3u8
