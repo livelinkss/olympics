@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1, SPORTS 18 HD ENGLISH
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100309/hd_akamai_iosmob_avc_eng_olympic_india_270724/master.m3u8
+#EXTINF:-1, SPORTS 18 HD TELUGU
+https://prod-sportsp-south-m.jiocinema.com/hls/live/2109481/hd_akamai_iosmob_avc_tel_olympic_india_270724/master.m3u8
+#EXTINF:-1, SPORTS 18 HD HINDI
+https://prod-sportsp-hin.jiocinema.com/hls/live/2112615/hd_akamai_iosmob_avc_hin_olympic_india_270724/master.m3u8
+#EXTINF:-1, SPORTS 18 HD TAMIL
+https://prod-sportsp-south-m.jiocinema.com/hls/live/2100289/hd_akamai_iosmob_avc_tam_olympic_india_270724/master.m3u8
+#EXTINF:-1, Feed 1
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_feed1_270724/index.m3u8
+#EXTINF:-1, Feed 2
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100311/uhd_akamai_ctv_avc_eng_olympic_feed2_270724/index.m3u8
+#EXTINF:-1, Feed 3
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100311/uhd_akamai_ctv_avc_eng_olympic_feed3_270724/index.m3u8
+#EXTINF:-1, Feed 4
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112593/uhd_akamai_ctv_avc_eng_olympic_feed4_270724/index.m3u8
+#EXTINF:-1, Feed 5
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112593/uhd_akamai_ctv_avc_eng_olympic_feed5_270724/index.m3u8
+#EXTINF:-1, Feed 6
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112594/uhd_akamai_ctv_avc_eng_olympic_feed6_270724/index.m3u8
+#EXTINF:-1, Feed 7
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112594/uhd_akamai_ctv_avc_eng_olympic_feed7_270724/index.m3u8
+#EXTINF:-1, Feed 8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112595/uhd_akamai_ctv_avc_eng_olympic_feed8_240724/index.m3u8
+#EXTINF:-1, Feed 9
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112595/uhd_akamai_ctv_avc_eng_olympic_feed9_270724/index.m3u8
+#EXTINF:-1, Feed 10
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112596/uhd_akamai_ctv_avc_eng_olympic_feed10_270724/index.m3u8
+#EXTINF:-1, Feed 11
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112596/uhd_akamai_ctv_avc_eng_olympic_feed11_270724/index.m3u8
+#EXTINF:-1, Feed 12
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112597/uhd_akamai_ctv_avc_eng_olympic_feed12_270724/index.m3u8
+#EXTINF:-1, Feed 13
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112597/uhd_akamai_ctv_avc_eng_olympic_feed13_270724/index.m3u8
+#EXTINF:-1, Feed 14
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112598/uhd_akamai_ctv_avc_eng_olympic_feed14_270724/index.m3u8
+#EXTINF:-1, Feed 15
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112598/uhd_akamai_ctv_avc_eng_olympic_feed15_270724/index.m3u8
+#EXTINF:-1, Feed 16
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112599/uhd_akamai_ctv_avc_eng_olympic_feed16_270724/index.m3u8
+#EXTINF:-1, Feed 17
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112599/uhd_akamai_ctv_avc_eng_olympic_feed17_270724/index.m3u8
