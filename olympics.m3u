@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1, English Feed
+#EXTINF:-1, English Feed 4k
 https://prod-ent-live-gm.jiocinema.com/out/v1/b531b22738de4b0186a624d84df41252/master.m3u8
-#EXTINF:-1, English Feed 2
+#EXTINF:-1, English Feed 2 4k
 https://prod-ent-live-gm.jiocinema.com/out/v1/6886123a36c2469dbf9df2978c25aa0e/master.m3u8
-#EXTINF:-1, Hindi Feed
+#EXTINF:-1, Hindi Feed 4k
 https://prod-ent-live-gm.jiocinema.com/out/v1/1bcf841b61684be0b93bb7b230c2690c/master.m3u8
-#EXTINF:-1, Hindi Feed 2
+#EXTINF:-1, Hindi Feed 2 4k
 https://prod-ent-live-gm.jiocinema.com/out/v1/cc9831a59b3e40cebc5f5d0f3f382c97/master.m3u8
-#EXTINF:-1, Telugu Feed
-https://prod-sportsp-south-m.jiocinema.com/hls/live/2109481/hd_akamai_iosmob_avc_tel_olympic_india_270724/master.m3u8
-#EXTINF:-1, Tamil Feed
-https://prod-sportsp-south-m.jiocinema.com/hls/live/2100289/hd_akamai_iosmob_avc_tam_olympic_india_270724/master.m3u8
-#EXTINF:-1, Women Feed
+#EXTINF:-1, Telugu Feed 4k
+https://prod-ent-live-gm.jiocinema.com/out/v1/5543162717ff4a09acef38807e9c4c16/master.m3u8
+#EXTINF:-1, Tamil Feed 4k
+https://prod-ent-live-gm.jiocinema.com/out/v1/91b7ede936174e2ca6d7ae2fddd56f79/master.m3u8
+#EXTINF:-1, Women Feed 4k
 https://prod-ent-live-gm.jiocinema.com/out/v1/0b34cb010c084aa7a3903f3da14bf0ba/master.m3u8
 #EXTINF:-1, 4k Feed 1
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_feed1_270724/index.m3u8
