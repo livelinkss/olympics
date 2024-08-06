@@ -1,73 +1,73 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", English Feed 4k
-https://prod-ent-live-gm.jiocinema.com/out/v1/b531b22738de4b0186a624d84df41252/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100309/uhd_akamai_ctv_avc_eng_olympic_india/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", English Feed 2 4k
-https://prod-ent-live-gm.jiocinema.com/out/v1/6886123a36c2469dbf9df2978c25aa0e/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100309/uhd_akamai_ctv_avc_eng_olympic_international/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", Hindi Feed
-https://prod-ent-live-gm.jiocinema.com/out/v1/1bcf841b61684be0b93bb7b230c2690c/master.m3u8
+https://olympics.spidydev.workers.dev/feeds-hin/2112615/uhd_akamai_ctv_avc_hin_olympic_india/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", Hindi Feed 2
-https://prod-ent-live-gm.jiocinema.com/out/v1/cc9831a59b3e40cebc5f5d0f3f382c97/master.m3u8
+https://olympics.spidydev.workers.dev/feeds-hin/2112615/uhd_akamai_ctv_avc_hin_olympic_international/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", Telugu Feed
-https://prod-ent-live-gm.jiocinema.com/out/v1/5543162717ff4a09acef38807e9c4c16/master.m3u8
+https://olympics.spidydev.workers.dev/feeds-sou/2109481/uhd_akamai_ctv_avc_tel_olympic_india/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", Tamil Feed
-https://prod-ent-live-gm.jiocinema.com/out/v1/91b7ede936174e2ca6d7ae2fddd56f79/master.m3u8
+https://olympics.spidydev.workers.dev/feeds-sou/2100289/uhd_akamai_ctv_avc_tam_olympic_india/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", Women Feed
-https://prod-ent-live-gm.jiocinema.com/out/v1/0b34cb010c084aa7a3903f3da14bf0ba/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_womens/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 1
-https://prod-ent-live-gm.jiocinema.com/out/v1/49db48fa744442a79e358f64305aae1d/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_feed1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 2
-https://prod-ent-live-gm.jiocinema.com/out/v1/315b8865044a47689c0abd30d841cf62/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100311/uhd_akamai_ctv_avc_eng_olympic_feed2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 3
-https://prod-ent-live-gm.jiocinema.com/out/v1/6ebb36c259e04ffdbf0118943cd24719/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100311/uhd_akamai_ctv_avc_eng_olympic_feed3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 4
-https://prod-ent-live-gm.jiocinema.com/out/v1/704c095613b84c418d2490235abb6462/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112593/uhd_akamai_ctv_avc_eng_olympic_feed4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 5
-https://prod-ent-live-gm.jiocinema.com/out/v1/dc88e57ec8514471b5c00e4b5986331a/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112593/uhd_akamai_ctv_avc_eng_olympic_feed5/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 6
-https://prod-ent-live-gm.jiocinema.com/out/v1/a1c207b69b9a4c1c8dcd59837aee4a7a/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112594/uhd_akamai_ctv_avc_eng_olympic_feed6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 7
-https://prod-ent-live-gm.jiocinema.com/out/v1/0391369c7b3f464a9bf6796b5d1e91e0/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112594/uhd_akamai_ctv_avc_eng_olympic_feed7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 8
-https://prod-ent-live-gm.jiocinema.com/out/v1/a657920362fc4bb5b1b9ab619478d27b/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112595/uhd_akamai_ctv_avc_eng_olympic_feed8/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 9
-https://prod-ent-live-gm.jiocinema.com/out/v1/ae998c85edb141e0bb81a7a2cd5472bc/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112595/uhd_akamai_ctv_avc_eng_olympic_feed9/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 10
-https://prod-ent-live-gm.jiocinema.com/out/v1/5531c5690dec41feb8c6be8d50a4f70a/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112596/uhd_akamai_ctv_avc_eng_olympic_feed10/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 11
-https://prod-ent-live-gm.jiocinema.com/out/v1/812aa4b97eb34cee88d96dbd758ba038/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112596/uhd_akamai_ctv_avc_eng_olympic_feed11/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 12
-https://prod-ent-live-gm.jiocinema.com/out/v1/2a151d7b3186492ca8109cabe9bcae09/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112597/uhd_akamai_ctv_avc_eng_olympic_feed12/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 13
-https://prod-ent-live-gm.jiocinema.com/out/v1/0ca6054dde714ed8bfce474b1b76fb82/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112597/uhd_akamai_ctv_avc_eng_olympic_feed13/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 14
-https://prod-ent-live-gm.jiocinema.com/out/v1/1a9b72935b3544c4aad4b9042f3e0804/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112598/uhd_akamai_ctv_avc_eng_olympic_feed14/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 15
-https://prod-ent-live-gm.jiocinema.com/out/v1/491e9adcd61f4125a680454ebb623754/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112598/uhd_akamai_ctv_avc_eng_olympic_feed15/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 16
-https://prod-ent-live-gm.jiocinema.com/out/v1/b4716a46b96a43c2ad24526975b6e91f/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112599/uhd_akamai_ctv_avc_eng_olympic_feed16/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/olympic_logo-1710247913017.jpg", 4k Feed 17
-https://prod-ent-live-gm.jiocinema.com/out/v1/a838e39b1b9a48849ec15c9c12d79682/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112599/uhd_akamai_ctv_avc_eng_olympic_feed17/master.m3u8
